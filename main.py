@@ -49,12 +49,7 @@ bot = commands.Bot(
     case_insensitive=True,
 )
 
-EXTENSIONS = (
-    "cogs.antinuke_events",
-    "cogs.whitelist",
-    "cogs.antinukeadmin",
-    "cogs.antinuke",
-    "cogs.backups",
+
 )
 
 
